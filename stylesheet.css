@@ -1,0 +1,16 @@
+body
+{
+    background-color: darksalmon;
+}
+
+#header
+{
+    font-size: 200%;
+    transition: font-size 0.5s;
+}
+
+#header:hover
+{
+    font-size: 240%;
+    transition: font-size 0.5s;
+}
